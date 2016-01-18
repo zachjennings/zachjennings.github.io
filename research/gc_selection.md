@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bayesian Modelling of Globular Cluster Systems in Wide-Field Imaging
-permalink: /research/gc_selection
+permalink: /research/gc_selection.html
 published: true
 main_nav: false
 ---

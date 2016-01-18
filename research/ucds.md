@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ultra-compact Dwarf Galaxies
-permalink: /research/ucds
+permalink: /research/ucds.html
 published: true
 main_nav: false
 ---

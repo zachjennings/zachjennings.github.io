@@ -15,14 +15,14 @@ properties of these systems tell us a great deal about how a particular galaxy
 has evolved over its lifetime to appear as it does today.
 
 
-###[Bayesian Modelling of Globular Cluster Systems in Wide-Field Imaging:](gc_selection/)
+###[Bayesian Modelling of Globular Cluster Systems in Wide-Field Imaging:](gc_selection.html)
 My thesis work focuses on cataloging and characterizing the globular cluster populations of the 25 nearby galaxies
 in the [SLUGGS Survey](http://sluggs.swin.edu.au/Start.html). I am developing a novel Bayesian method for
 simultaneous modelling of both the globular clusters and nuisance contaminants in our photometric samples. 
 
 
 
-###[Hubble Imaging of Globular Cluster Systems:](gc_hubble/)
+###[Hubble Imaging of Globular Cluster Systems:](gc_hubble.html)
 One alternative to ground-based globular cluster imaging is to use the instruments aboard the Hubble Space Telescope.
 While the time is much more difficult to attain and the field of view is much smaller,
 the quality of Hubble imaging is unparalleled, allowing near-perfect discrimination between
@@ -32,7 +32,7 @@ Relevant Papers: [Jennings et al. 2014a](http://adsabs.harvard.edu/abs/2014AJ...
 
 
 
-###[Ultra Compact Dwarf Galaxies:](ucds/)
+###[Ultra Compact Dwarf Galaxies:](ucds.html)
 Ultra-compact dwarf galaxies are star clusters which are intermediate in size and mass between
 globular clusters and dwarf galaxies. The processes which create globular clusters are totally
 distinct from those that create dwarf galaxies, and which family ultra-compact dwarfs
@@ -42,7 +42,7 @@ Relevant Papers: [Jennings et al. 2015](http://adsabs.harvard.edu/abs/2015ApJ...
 
 
 
-###[The Mass Function of Supernova Progenitor Stars:](sn_progenitors/)
+###[The Mass Function of Supernova Progenitor Stars:](sn_progenitors.html)
 Once upon a time in undergrad, I worked on a project to estimate the masses of supernova
 progenitor stars thousands of years after they had exploded based on the properties of their
 surrounding stellar populations. By applying this method

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supernova Progenitors
-permalink: /research/sn_progenitors
+permalink: /research/sn_progenitors.html
 published: true
 main_nav: false
 ---
