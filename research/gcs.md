@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Globular Clusters
-permalink: /research/gcs
+permalink: /research/gcs.html
 published: true
 main_nav: false
 ---

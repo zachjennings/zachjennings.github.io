@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hubble Imaging of Extragalactic Globular Clusters
-permalink: /research/gc_hubble
+permalink: /research/gc_hubble/
 published: true
 main_nav: false
 ---

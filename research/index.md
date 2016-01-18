@@ -7,7 +7,7 @@ permalink: /research/
 I've worked on a wide array of projects over my career in astronomy; here are some of those I've been
 most involved in. Please click the links for a bit more info about what I've done!
 
-###[Globular Clusters:](gcs/)
+###[Globular Clusters:](gcs.html)
 Much of my graduate career has revolved around the study of extragalactic
 globular cluster populations. These fascinating objects are extremely exotic
 environments compared to the Sun's local neighborhood in our galaxy. The global
