@@ -12,11 +12,25 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
+		  <!--
+          <li><a href="/research.html">Researc</a></li>
+          <li><a href="/about.html">About Me</a></li>
+          <li><a href="/resume.html">Resume</a></li>
+		  <li><a href="/stats_refs.html">Stats Refs</a></li>
+			-->
+		  <li class="nav-link"><a href="{{ site.baseurl }} /research/">Research</a>
+		  <li class="nav-link"><a href="{{ site.baseurl }} /about/">About Me</a>
+		  <li class="nav-link"><a href="{{ site.baseurl }} /resume/">Resume</a>
+		  <li class="nav-link"><a href="{{ site.baseurl }} /stats_notes/">Stats Refs</a>
+		  
+		  
+		  <!--
         {% for page in site.pages %}
           {% if page.title and page.main_nav != false %}
           <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+			  -->
       </ul>
     </nav>
   </div>
