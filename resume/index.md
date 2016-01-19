@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Resume
-permalink: /resume
+permalink: /resume/
 ---
-I'm currently looking for a data science internship for summer, 2016.
+I'm currently looking for a data science internship for summer 2016.
 
 [If you like, please check out my resume here.]({{ site.baseurl }}/assets/jennings_resume.pdf)
 
