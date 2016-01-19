@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/DSC_0119.JPG" title="Profile Picture" style="width: 60%" title="Stereotypical outdoorsy astronomy profile picture.">
+<img src="{{ site.baseurl }}/assets/DSC_0119_scaled.JPG" title="Profile Picture" style="width: 60%" title="Stereotypical outdoorsy astronomy profile picture.">
 
 Hello! My name is Zach Jennings. I'm a fourth year PhD student in the astronomy and astrophysics program at the University of California, Santa Cruz.
 Before graduate school, I grew up in the Seattle area and earned my BS in astronomy and physics from the University of Washington.
