@@ -16,7 +16,7 @@ Canada-France-Hawaii Telescope, to investigate these systems.
 
 I am also very interested in statistics, especially Bayesian statistics, and machine learning. I have
 taken supplemental coursework for a formal "designated emphasis in statistics" attached to my PhD, and 
-I have pursued research projects that allow me to bring modern statistical techniques to bare on interesting
+I have pursued research projects that allow me to bring modern statistical techniques to bear on interesting
 astrophysical problems. I feel the modern state of statistical modelling in astronomy is sorely behind the
 times, and hope that a more formal statistics education will become a staple of astrophysics coursework going forward.
 I am interested in future positions outside of astronomy that will employ advanced statistics and machine learning

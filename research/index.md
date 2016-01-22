@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <img src="{{ site.baseurl }}/assets/MaunaKea_Subaru.jpg" style="width: 60%" title="Subaru Telescope, where most of my thesis data comes from.">
-I've worked on a wide array of projects over my career in astronomy; here are some of those I've been
+I've worked on a wide array of projects over my career in astronomy; here are some I've been
 most involved in. Please click the links for a bit more info about what I've done!
 
 ###[Globular Clusters:](gcs.html)
@@ -33,8 +33,8 @@ Relevant Papers: [Jennings et al. 2014a](http://adsabs.harvard.edu/abs/2014AJ...
 
 
 ###[Ultra Compact Dwarf Galaxies:](ucds.html)
-Ultra-compact dwarf galaxies are star clusters which are intermediate in size and mass between
-globular clusters and dwarf galaxies. The processes which create globular clusters are totally
+Ultra-compact dwarf galaxies are star clusters that are intermediate in size and mass between
+globular clusters and dwarf galaxies. The processes that create globular clusters are totally
 distinct from those that create dwarf galaxies, and which family ultra-compact dwarfs
 fit is an unresolved question.
 
