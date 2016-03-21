@@ -9,7 +9,7 @@ I've remarked to a few people that I have a folder containing something along th
 
 I'll try to keep this updated as I find interesting references. 
 
-##Basic Reading
+##Basic Reading and Tutorials
 
 [Data Analysis Recipes: Fitting a Model to Data. Hogg, Bovy, & Lang 2010.](http://arxiv.org/abs/1008.4686) What it says on the tin, how to fit a model to data correctly. A great tutorial, I found this informative and easy to follow. I think starting here would be useful for someone who hasn't had much formal statistics, in particular formal Bayesian statistics. Even includes things like practice exercises at the end of sections. Required reading, in my opinion.
 
@@ -28,6 +28,13 @@ it's basically the same material but featuring more explicit coding examples and
 
 [emcee: The MCMC Hammer, Foreman-Mackey et al. 2012](http://arxiv.org/abs/1202.3665). A nice read on MCMC algorithms, including (arguably) the most
 commonly used one in astronomy, emcee. It's one I've started using extremely frequently in my own research. See also [Daniel Foreman-Mackey's website for the emcee package.](http://dan.iel.fm/emcee/current/)
+
+##Statistical Discussions
+[American Statistical Association Statement on p-values, 2016](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108). This statement represents the first time the ASA has ever released a statement regarding a specific analysis practice. The actual statement on p-values is required reading, but much of the meat of the statement comes from the supplementary papers written by the majority of the individual authors. 
+
+[Bayesian Model Selection in Social Research, Raftery 1995](http://www.stat.washington.edu/raftery/Research/PDF/socmeth1995.pdf). Somewhat old, but still a good discussion of model selection in a Bayesian context. 
+
+[Ch. 26: "How do we choose our default methods?" Andrew Gelman](http://www.stat.columbia.edu/~gelman/research/published/copss.pdf). Book chapter (I'm not familiar with the full source) giving some interesting discussion on the selection of default statistical methods in various contexts. 
 
 ##Examples of Applications in Astronomy
 For those who like seeing practical examples:
