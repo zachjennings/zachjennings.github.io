@@ -30,6 +30,7 @@ it's basically the same material but featuring more explicit coding examples and
 commonly used one in astronomy, emcee. It's one I've started using extremely frequently in my own research. See also [Daniel Foreman-Mackey's website for the emcee package.](http://dan.iel.fm/emcee/current/)
 
 ##Statistical Discussions
+
 [American Statistical Association Statement on p-values, 2016](http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108). This statement represents the first time the ASA has ever released a statement regarding a specific analysis practice. The actual statement on p-values is required reading, but much of the meat of the statement comes from the supplementary papers written by the majority of the individual authors. 
 
 [Bayesian Model Selection in Social Research, Raftery 1995](http://www.stat.washington.edu/raftery/Research/PDF/socmeth1995.pdf). Somewhat old, but still a good discussion of model selection in a Bayesian context. 
