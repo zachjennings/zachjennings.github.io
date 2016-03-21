@@ -38,6 +38,7 @@ commonly used one in astronomy, emcee. It's one I've started using extremely fre
 [Ch. 26: "How do we choose our default methods?" Andrew Gelman](http://www.stat.columbia.edu/~gelman/research/published/copss.pdf). Book chapter (I'm not familiar with the full source) giving some interesting discussion on the selection of default statistical methods in various contexts. 
 
 ##Examples of Applications in Astronomy
+
 For those who like seeing practical examples:
 
 [Dan Weisz's Bayesian approach to evaluating stellar mass functions. Weisz+ 2013.](http://arxiv.org/abs/1211.6105) I found this a useful reference for consideration of incomplete data (in the astronomical context) in Bayesian analysis. 
